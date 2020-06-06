@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Recorder</string>
+    <string name="recordNow">RecordN</string>
+    <string name="deleteNow">DeleteN</string>
+    <string name="NewNow">NewN</string>
+</resources>
